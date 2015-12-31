@@ -22,12 +22,6 @@
                 "type": "png"
             },
             {
-                "file": "images/osmc2.png",
-                "menuIcon": true,
-                "name": "OSMC_ICON",
-                "type": "png"
-            },
-            {
                 "file": "images/weather.png",
                 "name": "ICON_WEATHER",
                 "type": "png"
